@@ -31,3 +31,8 @@ Isomorphism Counting**, [link](https://arxiv.org/pdf/2006.09252.pdf)
 
 15. **Graph Attention Networks**, [link](https://arxiv.org/pdf/1710.10903.pdf)
 
+## Video resources:
+- Theoretical foundations of GNNs, by Petar Veličković [link](https://www.youtube.com/watch?v=uF53xsT7mjc)
+- A brief history of geometric deep learning, Michael Bronstein [link](https://www.youtube.com/watch?v=yuw_LwqHsgM)
+- Topological message passing, Cristian Bodnar [link](https://www.youtube.com/watch?v=wACDSoDNTfE&t=4678s)
+- Sheaf Neural Networks, Cristian Bodnar [link](https://www.youtube.com/watch?v=90MbHphnPUU&t=1143s)
